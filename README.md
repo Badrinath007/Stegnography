@@ -33,7 +33,7 @@ This project **enhances data security** by combining **encryption and LSB (Least
 
 | **Technology** | **Purpose** |
 |--------------|-------------|
-| **Python 3.13** | Core programming language |
+| **Python 3.12** | Core programming language |
 | **Pillow** | Image processing (embedding & extracting data) |
 | **cryptography** | Encrypting and decrypting secret messages |
 | **customtkinter** | Building a modern, user-friendly GUI |
@@ -44,12 +44,12 @@ This project **enhances data security** by combining **encryption and LSB (Least
 
 ## 📂 Project Structure  
 
-📁 SecureDataHiding
-│── 📄 app.py # Main GUI interface
-│── 📄 encryption.py # Encryption-related functions
-│── 📄 decryption.py # Decryption-related functions
-│── 📁 assets/ # Sample images
-│── 📄 README.md # Project documentation
+📁 SecureDataHiding  
+│── 📄 app.py         # Main GUI interface  
+│── 📄 encryption.py  # Encryption-related functions  
+│── 📄 decryption.py  # Decryption-related functions  
+│── 📁 assets/        # Sample images  
+│── 📄 README.md      # Project documentation  
 
 
 ---
