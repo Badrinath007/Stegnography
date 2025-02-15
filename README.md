@@ -1,8 +1,7 @@
 # 🔒 Secure Data Hiding in Images using Steganography  
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)  
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)  
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-green?style=for-the-badge)  
-![Encryption](https://img.shields.io/badge/Encryption-AES-orange?style=for-the-badge)  
 ![Steganography](https://img.shields.io/badge/Steganography-LSB-red?style=for-the-badge)  
 
 🔍 **A secure and modern steganography tool that encrypts and hides secret messages inside images without affecting visual quality.**  
