@@ -57,15 +57,15 @@ This project **enhances data security** by combining **encryption and LSB (Least
 ## 🚀 Installation & Setup  
 
 ### 🔹 Step 1: Clone the Repository  
-```sh
+
 git clone https://github.com/your-username/SecureDataHiding.git  
-cd SecureDataHiding  ```
+cd SecureDataHiding  
 ###🔹 Step 2: Install Dependencies
-```sh
-pip install pillow cryptography customtkinter numpy  ```
+
+pip install pillow cryptography customtkinter numpy  
 ###🔹 Step 3: Run the Application
-```sh
-python app.py  ```
+
+python app.py 
 
 🔧 How It Works?
 1️⃣ Hiding Data in an Image
