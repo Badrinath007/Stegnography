@@ -65,16 +65,20 @@ This project **enhances data security** by combining **encryption and LSB (Least
 ```bash
 git clone https://github.com/Badrinath007/Stegnography.git
 
-cd SecureDataHiding```  
+cd SecureDataHiding
+```  
 
 ###🔹 Step 2: Install Dependencies
 
 ``` bash
-pip install pillow cryptography customtkinter numpy```
+pip install pillow cryptography customtkinter numpy
+```
   
 ###🔹 Step 3: Run the Application
 
-``` bash python app.py ```
+``` bash 
+python app.py
+```
 
 🔧 How It Works?
 1️⃣ Hiding Data in an Image
