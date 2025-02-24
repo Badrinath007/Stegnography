@@ -23,9 +23,8 @@ This project **enhances data security** by combining **encryption and LSB (Least
 
 ## 📸 Screenshots  
 
-| **Hiding Data**  | **Extracting Data** |
-|-----------------|-----------------|
-| ![Placeholder](https://via.placeholder.com/400x250.png?text=Insert+Hide+Data+Screenshot) | ![Placeholder](https://via.placeholder.com/400x250.png?text=Insert+Extract+Data+Screenshot) |
+![image](https://github.com/user-attachments/assets/c37aa373-30b4-4d20-97ee-87b5680651af)
+
 
 ---
 
