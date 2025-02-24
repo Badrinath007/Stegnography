@@ -63,6 +63,7 @@ This project **enhances data security** by combining **encryption and LSB (Least
 ### 🔹 Step 1: Clone the Repository  
 
 git clone https://github.com/Badrinath007/Stegnography.git
+
 cd SecureDataHiding  
 
 ###🔹 Step 2: Install Dependencies
