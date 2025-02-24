@@ -26,9 +26,6 @@ This project **enhances data security** by combining **encryption and LSB (Least
 ![image](https://github.com/user-attachments/assets/0bac07d6-ed22-4fd7-bf6f-be9431760a47)
 
 
-
-
-
 ---
 
 ## 🛠️ Technologies Used  
@@ -39,7 +36,6 @@ This project **enhances data security** by combining **encryption and LSB (Least
 | **Pillow** | Image processing (embedding & extracting data) |
 | **cryptography** | Encrypting and decrypting secret messages |
 | **customtkinter** | Building a modern, user-friendly GUI |
-| **NumPy** | Efficient pixel manipulation for fast processing |
 | **LSB Steganography** | Hiding data in image pixels with minimal distortion |
 
 ---
@@ -50,7 +46,7 @@ This project **enhances data security** by combining **encryption and LSB (Least
 │── 📄 app.py         # Main GUI interface  
 │── 📄 encryption.py  # Encryption-related functions  
 │── 📄 decryption.py  # Decryption-related functions  
-│── 📁 assets/        # Sample images  
+│── 📁 test_images/        # Sample images  
 │── 📄 README.md      # Project documentation  
 
 
@@ -110,8 +106,8 @@ With a modern GUI, multi-format support, and fast processing, this tool is ideal
 
 📩 Contact
 📧 Your Name: [Badrinath Ayyamperumal]
-🔗 GitHub: github.com/your-username
-🌐 LinkedIn: linkedin.com/in/your-profile
+🔗 GitHub: github.com/Badrinath007
+🌐 LinkedIn: linkedin.com/in/badrinatha
 
 
 ### 🎯 **Why This README is Awesome?**
