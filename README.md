@@ -23,7 +23,8 @@ This project **enhances data security** by combining **encryption and LSB (Least
 
 ## 📸 Screenshots  
 
-![image](https://github.com/user-attachments/assets/c37aa373-30b4-4d20-97ee-87b5680651af)
+![image](https://github.com/user-attachments/assets/5d0b9034-caa0-49d0-9a92-a71654f57f12)
+
 
 
 ---
