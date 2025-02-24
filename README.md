@@ -80,7 +80,7 @@ pip install pillow cryptography customtkinter numpy
 ``` bash 
 python app.py
 ```
-
+---
 
 🔧 How It Works?
 1️⃣ Hiding Data in an Image
@@ -96,37 +96,38 @@ python app.py
 
 📌 No one can detect the hidden message visually! 🎭
 
+---
 🎯 End Users
 🔹 Cybersecurity Experts – Secure confidential data transfer.
 🔹 Researchers & Students – Learn cryptography & steganography.
 🔹 Journalists & Whistleblowers – Ensure private communication.
 🔹 Businesses & Enterprises – Hide sensitive corporate data.
 🔹 Digital Forensics Analysts – Investigate and analyze hidden messages.
-
+---
 🔮 Future Scope
 ✨ 🔑 Password-Protected Access – Restrict message extraction to authorized users.
 ✨ 🧠 AI-Based Steganalysis Resistance – Prevent detection by forensic tools.
 ✨ 📱 Mobile & Web Version – Develop an online version for broader accessibility.
 ✨ 🖼️ Advanced Image Processing – Adaptive embedding to increase security.
 ✨ 🎥 Multi-Media Support – Extend steganography to videos and audio.
-
+---
 📜 Conclusion
 This project offers a powerful, secure, and efficient solution for hiding encrypted data inside images without any noticeable distortion. By combining encryption and LSB steganography, it ensures confidentiality, integrity, and ease of use.
 
 With a modern GUI, multi-format support, and fast processing, this tool is ideal for secure data transmission in various applications, from cybersecurity to private communication. Future enhancements will make it even more robust and scalable.
 
 🎭 Stay Hidden, Stay Secure! 🔒🚀
-
+---
 🤝 Contributing
 🔹 Feel free to fork the repository, report issues, or suggest improvements!
 🔹 Contributions are always welcome! 🛠️
-
+---
 📩 Contact
 📧 Your Name: [Badrinath Ayyamperumal]
 🔗 GitHub: github.com/Badrinath007
 🌐 LinkedIn: linkedin.com/in/badrinatha
 
-
+---
 ### 🎯 **Why This README is Awesome?**
 ✅ **Everything in One Block** – No code breaks!  
 ✅ **Visually Engaging** – Icons, tables, and formatting.  
