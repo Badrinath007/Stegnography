@@ -18,11 +18,11 @@
 
 This project **enhances data security** by combining **encryption and LSB (Least Significant Bit) steganography**. It features a **user-friendly GUI** built with **customtkinter**, allowing users to securely **embed, encrypt, extract, and decrypt** messages hidden in images.  
 
-✅ **Encrypts secret messages before embedding** 🔐  
+✅ **Encrypts secret messages** 🔐  
 ✅ **Extracts and decrypts messages from images** 🖼️  
 ✅ **User-friendly modern interface** 🎨  
 ✅ **Lossless image quality after data embedding** 📷  
-✅ **Supports multiple image formats (PNG, JPEG, BMP)** 🖼️  
+✅ **Supports multiple image formats (PNG, JPEG)** 🖼️  
 ✅ **Fast, lightweight, and cross-platform (Windows & Linux)** 🚀  
 
 ---
