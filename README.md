@@ -52,7 +52,7 @@ This project **enhances data security** by combining **encryption and LSB (Least
 │── 📄 app.py         # Main GUI interface  
 │── 📄 encryption.py  # Encryption-related functions  
 │── 📄 decryption.py  # Decryption-related functions  
-|── 📄 Key_manager.py #EKey generation-related functions
+│── 📄 Key_manager.py # Key generation-related functions  
 │── 📁 test_images/        # Sample images  
 │── 📄 README.md      # Project documentation  
 
