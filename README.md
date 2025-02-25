@@ -4,7 +4,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
-# 🔒 Secure Data Hiding in Images using Steganography  
+## 🔒 Secure Data Hiding in Images using Steganography  
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)  
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-green?style=for-the-badge)  
@@ -16,7 +16,7 @@
 
 ## 🎯 Project Overview  
 
-This project **enhances data security** by combining **encryption and LSB (Least Significant Bit) steganography**. It features a **user-friendly GUI** built with `customtkinter`, allowing users to securely **embed, encrypt, extract, and decrypt** messages hidden in images.  
+This project **enhances data security** by combining **encryption and LSB (Least Significant Bit) steganography**. It features a **user-friendly GUI** built with **customtkinter**, allowing users to securely **embed, encrypt, extract, and decrypt** messages hidden in images.  
 
 ✅ **Encrypts secret messages before embedding** 🔐  
 ✅ **Extracts and decrypts messages from images** 🖼️  
@@ -27,7 +27,7 @@ This project **enhances data security** by combining **encryption and LSB (Least
 
 ---
 
-## 📸 Screenshots  
+## 📸 Screenshot(s)
 
 ![image](https://github.com/user-attachments/assets/0bac07d6-ed22-4fd7-bf6f-be9431760a47)
 
@@ -48,10 +48,11 @@ This project **enhances data security** by combining **encryption and LSB (Least
 
 ## 📂 Project Structure  
 
-📁 SecureDataHiding  
+📁 Stegnography  
 │── 📄 app.py         # Main GUI interface  
 │── 📄 encryption.py  # Encryption-related functions  
 │── 📄 decryption.py  # Decryption-related functions  
+|── 📄 Key_manager.py #EKey generation-related functions
 │── 📁 test_images/        # Sample images  
 │── 📄 README.md      # Project documentation  
 
@@ -65,70 +66,104 @@ This project **enhances data security** by combining **encryption and LSB (Least
 ```bash
 git clone https://github.com/Badrinath007/Stegnography.git
 cd SecureDataHiding
-```  
-###🔹 Step 2: Install Dependencies
+```
+
+### 🔹 Step 2: Install Dependencies
 
 ```bash
 pip install pillow cryptography customtkinter numpy
 ```
   
-###🔹 Step 3: Run the Application
+### 🔹 Step 3: Run the Application
 
 ```bash 
 python app.py
 ```
 ---
 
-🔧 How It Works?
-1️⃣ Hiding Data in an Image
+## 🔧 How It Works?
+
+### 1️⃣ Hiding Data in an Image
+
 🔹 Select an image (PNG, JPEG, BMP).
+
 🔹 Enter the secret message.
+
 🔹 The message is encrypted and embedded inside the image.
+
 🔹 Save the steganographic image.
 
-2️⃣ Extracting & Decrypting Data
+### 2️⃣ Extracting & Decrypting Data
+
 🔹 Load the encoded image.
+
 🔹 Extract the hidden data.
+
 🔹 Decrypt the extracted message.
 
-📌 No one can detect the hidden message visually! 🎭
+### 📌 No one can detect the hidden message visually! 🎭
 
 ---
-🎯 End Users
+## 🎯 End Users
+
 🔹 Cybersecurity Experts – Secure confidential data transfer.
+
 🔹 Researchers & Students – Learn cryptography & steganography.
+
 🔹 Journalists & Whistleblowers – Ensure private communication.
+
 🔹 Businesses & Enterprises – Hide sensitive corporate data.
+
 🔹 Digital Forensics Analysts – Investigate and analyze hidden messages.
+
 ---
-🔮 Future Scope
+## 🔮 Future Scope
+
 ✨ 🔑 Password-Protected Access – Restrict message extraction to authorized users.
+
 ✨ 🧠 AI-Based Steganalysis Resistance – Prevent detection by forensic tools.
+
 ✨ 📱 Mobile & Web Version – Develop an online version for broader accessibility.
+
 ✨ 🖼️ Advanced Image Processing – Adaptive embedding to increase security.
+
 ✨ 🎥 Multi-Media Support – Extend steganography to videos and audio.
+
 ---
-📜 Conclusion
+
+## 📜 Conclusion
+
 This project offers a powerful, secure, and efficient solution for hiding encrypted data inside images without any noticeable distortion. By combining encryption and LSB steganography, it ensures confidentiality, integrity, and ease of use.
 
 With a modern GUI, multi-format support, and fast processing, this tool is ideal for secure data transmission in various applications, from cybersecurity to private communication. Future enhancements will make it even more robust and scalable.
 
 🎭 Stay Hidden, Stay Secure! 🔒🚀
+
 ---
-🤝 Contributing
+
+## 🤝 Contributing
+
 🔹 Feel free to fork the repository, report issues, or suggest improvements!
+
 🔹 Contributions are always welcome! 🛠️
+
 ---
-📩 Contact
-📧 Your Name: [Badrinath Ayyamperumal]
+
+## 📩 Reach me
+
+📧 Name: Badrinath Ayyamperumal
+
 🔗 GitHub: github.com/Badrinath007
+
 🌐 LinkedIn: linkedin.com/in/badrinatha
 
 ---
-### 🎯 **Why This README is Awesome?**
+
+## 🎯 Why This README is Awesome?  
+
 ✅ **Everything in One Block** – No code breaks!  
 ✅ **Visually Engaging** – Icons, tables, and formatting.  
 ✅ **Professional Documentation** – Clear sections for easy understanding.  
 ✅ **Ready for GitHub** – Just copy and paste!  
 
-Would you like any **specific customizations** (e.g., additional sections, styling changes, or real images)? 😊
+### Would you like any **specific customizations** (e.g., additional sections, styling changes, or real images)? 😊
