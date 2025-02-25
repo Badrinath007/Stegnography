@@ -85,7 +85,7 @@ python app.py
 
 ### 1️⃣ Hiding Data in an Image
 
-🔹 Select an image (PNG, JPEG, BMP).
+🔹 Select an image (PNG, JPEG).
 
 🔹 Enter the secret message.
 
